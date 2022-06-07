@@ -7,5 +7,5 @@ func main() {
 	c, d := 4, 5
 	fmt.Println("GO! GO!")
 	e := c + d - a + b
-	fmt.Println(e)
+	fmt.Println(e + a + b)
 }
